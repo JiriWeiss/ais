@@ -1,0 +1,10 @@
+[
+  "https://www.unob.cz/fvl/",
+  "https://www.unob.cz/fvt/",
+  "https://www.unob.cz/fvz/",
+  "https://www.unob.cz/uopzhn/",
+  "https://www.unob.cz/cbvss/",
+  "https://www.unob.cz/cjv/",
+  "https://www.unob.cz/ctvs/",
+  "https://www.unob.cz/studium/pruvodce-prvaka/Stranky/skolni-pluk.aspx"
+]
